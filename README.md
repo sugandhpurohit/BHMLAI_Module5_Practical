@@ -60,6 +60,7 @@ After analyzing dataset and reviewing charts:
 - Around 15% of total customers may accept Coffee House coupons
 - Around 15.5% of total customers may accept Carry Out & Take away coupons
 - Around 17.5% of total customers may accept Restaurant(<20) away coupons
+- Customer dataset also shows that even if customer didn't accept coupon, they did go to either of the places atleast once. So they may accept coupon in future.
 - Customers who are single, alone, married partners or do not have urgent work could be the most potential customers to accepts coupon. There are few other categories that are available in actual charts.
 
 ### Project URL
