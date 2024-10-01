@@ -54,12 +54,13 @@ The attributes of this data set include:
 ### Summary of Findings
 
 After analyzing dataset and reviewing charts:
-- Customers who are single, alone, married partners or do not have urgent work could be the most potential customers to accepts coupon. There are few other categories that are available in actual charts.
-- Around 5% of total customers may accept Bar coupons
-- Around 5% of total customers may accept Restaurant(20-50) coupons
+- Around 56% of total customers accepted coupons.
+- Around 4.5% of total customers may accept Bar coupons
+- Around 4.5% of total customers may accept Restaurant(20-50) coupons
 - Around 15% of total customers may accept Coffee House coupons
-- Around 16% of total customers may accept Carry Out & Take away coupons
+- Around 15.5% of total customers may accept Carry Out & Take away coupons
 - Around 17.5% of total customers may accept Restaurant(<20) away coupons
+- Customers who are single, alone, married partners or do not have urgent work could be the most potential customers to accepts coupon. There are few other categories that are available in actual charts.
 
 ### Project URL
 - GIT: https://github.com/sugandhpurohit/BHMLAI_Module5_Practical
