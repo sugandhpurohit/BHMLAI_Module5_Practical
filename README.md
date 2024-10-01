@@ -63,7 +63,7 @@ After analyzing dataset and reviewing charts:
 
 ### Project URL
 - GIT: https://github.com/sugandhpurohit/BHMLAI_Module5_Practical
-- Notebook: https://github.com/sugandhpurohit/BHMLAI_Module5_Practical/blob/main/Module5_Practical_1.1.ipynb
+- Notebook: https://github.com/sugandhpurohit/BHMLAI_Module5_Practical/blob/main/CustomerCoupons.ipynb
 
 ### Next steps and recommendations:
 
